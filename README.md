@@ -1,3 +1,8 @@
+## About Todo app
+This app was built with the intention of having an edit,delete and done feature.
+Below is the link to the project.
+https://todo-list-opal-iota.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
